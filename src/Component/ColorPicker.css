@@ -1,0 +1,32 @@
+.container {
+    min-height: 100vh;
+    margin-left: 20%;
+    margin-top: 10%;
+
+}
+
+.btn {
+    padding: 20px;
+    margin-left: 250px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    font-size: 30px;
+    background-color: rgb(215, 237, 241);
+    color: rgb(22, 22, 22);
+}
+
+.list {
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.list-items {
+    border-radius: 10px;
+    box-shadow: 4px -4px 5px rgba(0, 0, 0, 0.345);
+}
